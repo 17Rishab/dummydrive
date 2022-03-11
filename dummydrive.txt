@@ -10,3 +10,5 @@ Author : Rishab
 
 4. Attachments (Image, Audio, Video) code
 
+5.Hide last seen
+
