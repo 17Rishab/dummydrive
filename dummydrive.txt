@@ -1,14 +1,10 @@
-THIS IS THE DEV CODE:
+//THIS IS SIMPLE CODE:
 
-Author : Rishab
+//Author : Rishab
 
-1. Profile page code
-
-2. Chat screen code 
-
-3. Last seen code
-
-4. Attachments (Image, Audio, Video) code
-
-5.Hide last seen
-
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
